@@ -1,0 +1,4 @@
+test_id,status,duration_ms
+QA-1001,PASSED,120
+QA-1002,FAILED,230
+QA-1003,PASSED,150

@@ -1,0 +1,5 @@
+{
+    "environment": "production",
+    "base_url": "https://shop.example.com",
+    "timeout": 60
+}
